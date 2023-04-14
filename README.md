@@ -1,6 +1,6 @@
-## My portfolio
+## ChatNode
 
-![portfolio!](src/portifolio.gif)
+![chatNode!](frontend/public/chatnode.gif.crdownload)
 
 
 ### This project
